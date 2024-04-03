@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.c04d1eef.css",
-    "main.js": "/static/js/main.dffa2be6.js",
-    "static/js/453.13826564.chunk.js": "/static/js/453.13826564.chunk.js",
-    "static/media/destinationBrazil.jpg": "/static/media/destinationBrazil.68b3f460e0a2fb376d3c.jpg",
-    "static/media/eiffelTower.jpg": "/static/media/eiffelTower.30bfaef76625f081d756.jpg",
-    "static/media/arc.jpg": "/static/media/arc.4d7bacbc958aef1ff1d6.jpg",
-    "static/media/moulinRouge.jpg": "/static/media/moulinRouge.94143839562c95a43df2.jpg",
-    "static/media/louvre.jpg": "/static/media/louvre.67d65c12d13bc86fb805.jpg",
-    "static/media/parisBridge.jpg": "/static/media/parisBridge.9dff1c08b94bdc1e6642.jpg",
-    "static/media/destinationJapan.jpg": "/static/media/destinationJapan.0a6f832a6cf84c195497.jpg",
-    "static/media/banner.jpg": "/static/media/banner.6a6db9c7ce2bc3e6aaf7.jpg",
-    "static/media/destinationUSA.jpg": "/static/media/destinationUSA.7cc30c9daad6df1e29d5.jpg",
-    "index.html": "/index.html",
-    "main.c04d1eef.css.map": "/static/css/main.c04d1eef.css.map",
-    "main.dffa2be6.js.map": "/static/js/main.dffa2be6.js.map",
-    "453.13826564.chunk.js.map": "/static/js/453.13826564.chunk.js.map"
+    "main.css": "/paris-travel/static/css/main.c04d1eef.css",
+    "main.js": "/paris-travel/static/js/main.fb92347c.js",
+    "static/js/453.13826564.chunk.js": "/paris-travel/static/js/453.13826564.chunk.js",
+    "static/media/destinationBrazil.jpg": "/paris-travel/static/media/destinationBrazil.68b3f460e0a2fb376d3c.jpg",
+    "static/media/eiffelTower.jpg": "/paris-travel/static/media/eiffelTower.30bfaef76625f081d756.jpg",
+    "static/media/arc.jpg": "/paris-travel/static/media/arc.4d7bacbc958aef1ff1d6.jpg",
+    "static/media/moulinRouge.jpg": "/paris-travel/static/media/moulinRouge.94143839562c95a43df2.jpg",
+    "static/media/louvre.jpg": "/paris-travel/static/media/louvre.67d65c12d13bc86fb805.jpg",
+    "static/media/parisBridge.jpg": "/paris-travel/static/media/parisBridge.9dff1c08b94bdc1e6642.jpg",
+    "static/media/destinationJapan.jpg": "/paris-travel/static/media/destinationJapan.0a6f832a6cf84c195497.jpg",
+    "static/media/banner.jpg": "/paris-travel/static/media/banner.6a6db9c7ce2bc3e6aaf7.jpg",
+    "static/media/destinationUSA.jpg": "/paris-travel/static/media/destinationUSA.7cc30c9daad6df1e29d5.jpg",
+    "index.html": "/paris-travel/index.html",
+    "main.c04d1eef.css.map": "/paris-travel/static/css/main.c04d1eef.css.map",
+    "main.fb92347c.js.map": "/paris-travel/static/js/main.fb92347c.js.map",
+    "453.13826564.chunk.js.map": "/paris-travel/static/js/453.13826564.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c04d1eef.css",
-    "static/js/main.dffa2be6.js"
+    "static/js/main.fb92347c.js"
   ]
 }
