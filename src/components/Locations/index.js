@@ -43,7 +43,7 @@ const Locations = () => {
   return (
     <Wrapper id="locations">
       <Title>
-        <p>YOU SHOULD DEFINETLY CHECK OUT</p>
+        <p>YOU SHOULD DEFINETELY CHECK OUT</p>
         <h1>OUR FAVORITE PLACES</h1>
       </Title>
       <Cards>
