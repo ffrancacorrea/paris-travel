@@ -13,6 +13,7 @@ const Wrapper = styled.div`
   text-align: center;
   color: ${({ theme }) => theme.colors.primary};
   width: 100%;
+  background-color: ${({ theme }) => theme.colors.background};
 `
 const Title = styled.div`
   display: flex;
