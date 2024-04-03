@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/paris-travel/static/css/main.c04d1eef.css",
-    "main.js": "/paris-travel/static/js/main.d0144a88.js",
+    "main.js": "/paris-travel/static/js/main.b08eb97f.js",
     "static/js/453.13826564.chunk.js": "/paris-travel/static/js/453.13826564.chunk.js",
     "static/media/destinationBrazil.jpg": "/paris-travel/static/media/destinationBrazil.68b3f460e0a2fb376d3c.jpg",
     "static/media/eiffelTower.jpg": "/paris-travel/static/media/eiffelTower.30bfaef76625f081d756.jpg",
@@ -14,11 +14,11 @@
     "static/media/destinationUSA.jpg": "/paris-travel/static/media/destinationUSA.7cc30c9daad6df1e29d5.jpg",
     "index.html": "/paris-travel/index.html",
     "main.c04d1eef.css.map": "/paris-travel/static/css/main.c04d1eef.css.map",
-    "main.d0144a88.js.map": "/paris-travel/static/js/main.d0144a88.js.map",
+    "main.b08eb97f.js.map": "/paris-travel/static/js/main.b08eb97f.js.map",
     "453.13826564.chunk.js.map": "/paris-travel/static/js/453.13826564.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c04d1eef.css",
-    "static/js/main.d0144a88.js"
+    "static/js/main.b08eb97f.js"
   ]
 }
